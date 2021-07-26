@@ -17,9 +17,9 @@
         <azure.functions.maven.plugin.version>1.3.1</azure.functions.maven.plugin.version>
         <azure.functions.java.library.version>1.3.0</azure.functions.java.library.version>
         <functionAppName>javafunctions</functionAppName>
-        <functionAppRegion>westus</functionAppRegion>
+        <functionAppRegion>eastus</functionAppRegion>
         <stagingDirectory>${project.build.directory}/azure-functions/${functionAppName}</stagingDirectory>
-        <functionResourceGroup>java-functions-group</functionResourceGroup>
+        <functionResourceGroup>myapp-rg</functionResourceGroup>
     </properties>
 
     <repositories>
