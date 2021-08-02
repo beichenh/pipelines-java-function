@@ -19,7 +19,7 @@
         <functionAppName>myfunction</functionAppName>
         <functionAppRegion>eastus</functionAppRegion>
         <stagingDirectory>${project.build.directory}/azure-functions/${functionAppName}</stagingDirectory>
-        <functionResourceGroup>myapp-rg</functionResourceGroup>
+        <functionResourceGroup>myapp-rg2</functionResourceGroup>
     </properties>
 
     <repositories>
