@@ -13,7 +13,7 @@ variables:
   appName: lucjavafunction
   # the name of your functionApp is what you provided as
   # stagingDirectory in pom.xml
-  functionAppName: 'myfunction'
+  functionAppName: 'lucjavafunction'
 
 
 trigger:
